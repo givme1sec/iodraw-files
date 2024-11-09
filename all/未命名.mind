@@ -1,1 +1,1 @@
-{"root":{"data":{"id":"d5hbm58e1pc0","created":1731122229024,"text":"智能家居"},"children":[{"data":{"id":"d5hbnenwy2w0","created":1731122327918,"text":"网络基础"},"children":[]}]},"template":"right","theme":"classic","version":"1.4.43"}
+{"root":{"data":{"id":"d5hbm58e1pc0","created":1731122229024,"text":"智能家居"},"children":[{"data":{"id":"d5hbnenwy2w0","created":1731122327918,"text":"网络基础","layout_right_offset":{"x":41.99999812245369,"y":-135.99999392032652}},"children":[]}]},"template":"right","theme":"classic","version":"1.4.43"}
